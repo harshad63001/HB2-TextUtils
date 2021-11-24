@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HB-TextUtils/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/HB-TextUtils/static/js/main.9d5418ad.chunk.js",
+    "main.js.map": "/HB-TextUtils/static/js/main.9d5418ad.chunk.js.map",
+    "runtime-main.js": "/HB-TextUtils/static/js/runtime-main.86b8984f.js",
+    "runtime-main.js.map": "/HB-TextUtils/static/js/runtime-main.86b8984f.js.map",
+    "static/js/2.9ea86071.chunk.js": "/HB-TextUtils/static/js/2.9ea86071.chunk.js",
+    "static/js/2.9ea86071.chunk.js.map": "/HB-TextUtils/static/js/2.9ea86071.chunk.js.map",
+    "static/js/3.9e19c84c.chunk.js": "/HB-TextUtils/static/js/3.9e19c84c.chunk.js",
+    "static/js/3.9e19c84c.chunk.js.map": "/HB-TextUtils/static/js/3.9e19c84c.chunk.js.map",
+    "index.html": "/HB-TextUtils/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/HB-TextUtils/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.9ea86071.chunk.js.LICENSE.txt": "/HB-TextUtils/static/js/2.9ea86071.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/HB-TextUtils/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86b8984f.js",
+    "static/js/2.9ea86071.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9d5418ad.chunk.js"
+  ]
+}
